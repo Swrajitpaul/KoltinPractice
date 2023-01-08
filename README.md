@@ -1,2 +1,2 @@
 # KoltinPractice
-practice files for kotlin
+practice files for learning kotlin
